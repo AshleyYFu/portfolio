@@ -34,7 +34,7 @@ feature_row:
     title: "Ask DAN - A Daily Assistant for Nutrients"
     excerpt: "Drop or take a photo of your food, and let D.A.N. analyze the nutrients and calories for you!"
 
-    - image_path: assets/img/Maze_Solver1.jpg
+  - image_path: assets/img/Maze_Solver1.jpg
     image_style: "square-thumb"
     alt: "Maze Solver and Line Tracker"
     title: "Maze Solver and Line Tracker"
