@@ -1,0 +1,17 @@
+// ---
+// # Only the main Sass file needs front matter (the dashes are enough)
+// search: false
+// ---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.square-thumb {
+  object-fit: cover;
+  aspect-ratio: 1 / 1;
+  width: 200px;  /* adjust as needed */
+  height: 200px;
+  border-radius: 8px; /* optional for rounded corners */
+}
