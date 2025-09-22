@@ -10,10 +10,10 @@ This page presents a brief overview of a research project I completed in my unde
 The rising adoption of robots in industrial settings has motivated research into innovative methods for reducing energy consumption. 
 This study introduces an innovative actuator that combines a standard motor with a custom rotary magnetic spring to create a non-uniform magnetic field. By tailoring the magnetic field for a specific oscillatory task, the actuator minimizes energy consumption by **50%** compared to conventional motors.
 
-![Figure 1. Optimization Steps.](/portfolio_website/assets/img/research_abstract.jpg)
+![Figure 1. Optimization Steps.](/assets/img/research_abstract.jpg)
 
 ### Conference Video Intro
-<video controls src="/portfolio_website/assets/img/IROS24_1657.mp4" title="Title" width="640" height="360" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></video>
+<video controls src="/assets/img/IROS24_1657.mp4" title="Title" width="640" height="360" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></video>
 
 ### **Role & Responsibilities**
 * Designed simulations in Matlab and Simulink, circuits using Teensy and sensors, control software, and experiments for a prototype of the magnetic-spring actuator.
@@ -25,9 +25,9 @@ This study introduces an innovative actuator that combines a standard motor with
 * SolidWorks
 
 
-![Figure 2. Optimization Steps.](/portfolio_website/assets/img/research_step.jpg)
+![Figure 2. Optimization Steps.](/assets/img/research_step.jpg)
 
-![Figure 3. Results.](/portfolio_website/assets/img/research_result.jpg)
+![Figure 3. Results.](/assets/img/research_result.jpg)
 
 ## Credit
 **Advanced Robotics and Control Lab**, Nashville, TN

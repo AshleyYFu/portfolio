@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Please click 'My Projects' to view detailed writing on my personal and academic projects!"
+excerpt: "Please click 'My Projects' to view detailed description on my personal and academic projects!"
 feature_row:
   - image_path: assets/img/Your_Dawg1.jpg
     image_style: "square-thumb"
