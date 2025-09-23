@@ -3,7 +3,9 @@
 title: "About Ashley Fu"
 
 ---
-Hello! My name is Ashley and I am a Senior at Vanderbilt University. I like climbing, baking, thrifting, playing piano, and making arts. 
+Hello! My name is Ashley and I am a Senior at Vanderbilt University. I like climbing, thrifting, playing piano, going to live music, and making arts. 
+
+I am passionate about hardware-software integration, embedded programming, and VLSI design. 
 
 ## Education
 
@@ -30,7 +32,7 @@ Nashville, TN
 
 **Qualcomm** - Embedded SW Engineering Intern  
 San Diego, CA   
-May-August 2025
+May - August 2025
 * Developed and shipped a production-quality GUI for modem configuration, built using Python and MVC design pattern, expanding supported modem-binary formats from 2 to 8 and eliminating GUI crashes. 
 * Integrated a color-coded diff engine for XML and embedded payloads, accelerating configuration reviews and regression analysis. 
 * Migrated legacy Perl scripts to Python generators, automating binary config generation workflows and reducing CI image build errors to 0. 
