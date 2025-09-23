@@ -24,7 +24,7 @@ My team and I developed a web application powered by a locally hosted Gemini mod
 * Database-backed user account and logging system
 
 ## Video
-<video controls src="/portfolio_website/assets/img/Cache_Me_If_You_Dan_Demo_video.mov" title="Title" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></video>
+<video controls src="/portfolio_website/assets/img/Cache_Me_If_You_Dan_Demo_video.mp4" title="Title" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></video>
 
 # Credits
 **Qualcomm** 2025 Summer HaQathon

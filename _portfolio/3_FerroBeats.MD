@@ -25,7 +25,7 @@ This project provided a low-cost, DIY-friendly alternative to commercial ferrofl
 ![Figure 2](/portfolio_website/assets/img/ferro_beat3.jpg)
 *Figure 2. PCB Layout.*
 
-![Figure 3]/portfolio_website(/assets/img/ferro_beat2.jpg)
+![Figure 3](/portfolio_website/assets/img/ferro_beat2.jpg)
 *Figure 3. 3D PCB Rendering Using KiCad.*
 
 ## Skills Acquired
