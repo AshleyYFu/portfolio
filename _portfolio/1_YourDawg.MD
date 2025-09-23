@@ -13,8 +13,8 @@ gallery:
 The project “Your Dawg” implements a real-time gesture recognition and response system for a robotics
 platform using Raspberry Pi 5 encapsulated in a Turbo Pi robot. The project was inspired by human
 interactions with their pet dogs that can understand commands and perform actions. Using TensorFlow 
-and a pi camera module, we built a computer vision model that detects and classify hand gestures.
-The system thus can interpret human input and triggers corresponding hardware-based reactions, 
+and a pi camera module, we built a computer vision model that detects and classifies hand gestures.
+The system can interpret human inputs and trigger corresponding hardware-based reactions, 
 such as moving motors, activating LEDs, or playing tones through buzzer.
 
 The project is built with modular Python scripts that run in parallel and communicate using ZeroMQ,
@@ -26,7 +26,7 @@ between humans and a “robot dog”, with each gesture mapped to a unique seque
 * **Real Time Operating Systems** The modular architecture is built using multithreaded Python and coordinated through a ZeroMQ-base pub/sub model. Three Raspberry Pi cores are utilized to enable true parallelism between gesture recognition and hand tracking. This lays the groundwork for future expansion. 
 
 ## Skills Acquired
-* Multithreading and parallel processing
+* Multithreading and multi-core parallel processing
 * Real time operating systems (RTOS)
 * Computer vision
 * Open source and code versioning / source control

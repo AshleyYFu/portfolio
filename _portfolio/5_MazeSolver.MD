@@ -9,7 +9,7 @@ header:
 # About
 In this project, a Pololu 32u4 robot was programmed to track a course and solve a maze with optimized methods.
 
-This was my gateway course to embedded systems. The robot was programmed using C and I worked with constraints of a low cost system, such as limited memory and battery life. Most importantly, I learned ways to debug, whether it's using a JTAG reading hexadecimals on registers or blinkers sparkling multiple colors. I experienced writing bare metal firmware for every peripheral part of the system, from motor drivers to IR sensors, leveraging my knowledge in timers and interrupts.
+This was my gateway course to embedded systems. The robot was programmed using C and I worked with constraints of a low cost system, such as limited memory and battery life. Most importantly, I learned ways to debug, whether it's using a JTAG reading hexadecimals on registers or blinkers sparkling multiple colors. I experienced writing bare metal firmware for every peripheral part of the system, from motor drivers to IR sensors, leveraging my knowledge of timers and interrupts.
 
 * **Line Tracking:** Bang Bang controller incorporating 5 IR sensors
 * **Maze Solving:** Left Hand Rule and IR sensor status tunings
