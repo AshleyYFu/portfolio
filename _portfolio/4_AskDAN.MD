@@ -26,6 +26,8 @@ My team and I developed a web application powered by a locally hosted Gemini mod
 ## Video
 <video controls src="/portfolio/assets/img/Cache_Me_If_You_Dan_Demo_video.mp4" title="Title" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></video>
 
+* Video directed and edited by myself
+
 # Credits
 **Qualcomm** 2025 Summer HaQathon
 
