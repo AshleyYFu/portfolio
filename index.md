@@ -10,6 +10,18 @@ header:
       url: "/portfolio/"
 excerpt: "Please click 'My Projects' to view detailed description on my personal and academic projects!"
 feature_row:
+  - image_path: assets/img/pcb_alone.png
+    image_style: "square-thumb"
+    alt: "VADL Payload Electronics PCB"
+    title: "VADL Payload Electronics PCB"
+    excerpt: "Payload PCB's for Vanderbilt's 7x winning NASA Studnt Rocket Team in 2025-26 competition."
+
+  - image_path: assets/img/booth.png
+    image_style: "square-thumb"
+    alt: "8 Bit Booth Multiplier"
+    title: "8 Bit Booth Multiplier"
+    excerpt: "VLSI layout design of an 8-bit Booth Multiplier using Cadence Virtuoso for ECE 4385"
+
   - image_path: assets/img/Your_Dawg1.jpg
     image_style: "square-thumb"
     alt: "Your Dawg"

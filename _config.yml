@@ -97,7 +97,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "assets/img/Ashley_Headshot2.jpg"
+  avatar           : "assets/img/Ashley_Headshot3.jpg"
   bio              : "Electrical and Computer Engineering @ Vanderbilt University"
   location         : "Nashville, TN"
   links:

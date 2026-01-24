@@ -5,14 +5,14 @@ title: "About Ashley Fu"
 ---
 Hello! My name is Ashley and I am a Senior at Vanderbilt University. I like climbing, thrifting, playing piano, going to live music, and making arts. 
 
-I am passionate about hardware-software integration, embedded programming, and VLSI design. 
+I am passionate about hardware-software integration, embedded programming, and hardware electronics design. 
 
 ## Education
 
 * Vanderbilt University - Class of 2026
   * BE - Electrical and Computer Engineering
   * Concentration in **Embedded Systems** and **Microelectronics**
-  * GPA - 3.96/4.00
+  * GPA - 3.97/4.00
   
 ## Awards
 
@@ -43,21 +43,23 @@ May - August 2025
 ## Technical Skills
 
 I have extensive background in the following engineering skills:
+* PCB Design
 * Embedded systems
+* FPGA Design
 * VLSI Complex Digital Circuit Design
 * Broadband Amplifier Circuit Design
-* PCB Design
 * Soldering, Oscilloscope, Function Generator
 * Raspberry Pi, Linux Development, AVR and ARM Microcontrollers
 
 I am also experienced with the following languages, frameworks, softwares, and tools:
-* Python, C/C++, Java, Assembly
+* Python, C/C++, Java, Assembly, VHDL/Verilog
 * MATLAB, Simulink
 * Linux, AVR & ARM Architecture
 * Microcontrollers, Microprocessors, Communication Protocols
 * Cadence, Quartus, VS Code, LTspice, SolidWorks, KiCad, Altium, Arm Keil
 
 ## ECE & CS Course Work
+* ECE 4377 FPGA Design
 * ECE 4385 VLSI Design
 * ECE 6342 Advanced Digital Electronics
 * ECE 4375 Embedded Systems
