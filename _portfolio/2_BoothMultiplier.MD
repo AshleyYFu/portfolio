@@ -6,7 +6,7 @@ header:
 ---
 
 ## About
-![Figure 1. Cadence Layout](/portfolio/assets/img/booth_multiplier.png)
+![Figure 1. Cadence Layout](/portfolio/assets/img/booth.png)
 *Figure 1. Cadence Layout of Completed Booth Multiplier*
 
 I designed and implemented an 8-bit Booth multiplier using full-custom CMOS design in **Cadence Virtuoso** (90 nm). I also developed hierarchical, transistor-level schematics and layouts, achieving DRC/LVS clean verification. The design was built from scratch all the way from fundamental building pieces like an inverter, an NAND gate, an NOR gate, etc...
