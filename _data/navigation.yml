@@ -3,7 +3,7 @@ main:
   - title: "Research"
     url: /_pages/research
   - title: "Rocket Team"
-    url: www.vadl.org
+    url: https://www.vadl.org
   - title: "Portfolio"
     url: /portfolio/
   - title: "About"
